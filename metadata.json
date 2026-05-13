@@ -1,8 +1,0 @@
-{
-  "name": "Neon Snake Retro",
-  "description": "A polished retro-modern Snake game built with React, TypeScript, and HTML5 Canvas.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
